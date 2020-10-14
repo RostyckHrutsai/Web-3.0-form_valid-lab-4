@@ -1,0 +1,27 @@
+#title{
+    color:white;
+    text-align: center;
+}
+#description{
+    color: white;
+    text-align: center;
+    }
+    div{
+        background-color: rgb(21, 8, 36);
+margin-top:45px;
+margin-bottom:45px;
+margin-left:400px;
+margin-right:400px;
+border-radius: 10%;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 25px;
+padding-bottom: 25px;
+    }
+#survey-form{
+    text-align: center;
+    color:white;
+}
+body{
+    background-color:rgb(109, 39, 189)
+}
